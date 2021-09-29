@@ -1,0 +1,40 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    position: static;
+}
+
+
+.div3{
+    top:210px ;
+    position: absolute;
+    right:0 ;
+
+}
+#example {
+    border: 1px solid blue;
+    
+}
+.div2{
+    position: absolute;
+    top: 110px;
+    display: flex;
+    align-items: center;
+    
+    ;
+    
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+
+    display: flex;
+    justify-content: 
+    flex-direction:
+    align-items: center;
+}
+
