@@ -229,7 +229,13 @@ section h1 {
 	bottom: 10px;
 	right: 10px;
 }
+/* challenge12 */
+#challenge12 .box1 {
+	position: relative;
+	width: 150px;
+	height: 300px;
 
+}
 #challenge12 .box2 {
 	position: absolute;
 	height: 160px;
