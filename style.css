@@ -229,5 +229,66 @@ section h1 {
 	bottom: 10px;
 	right: 10px;
 }
+/* challenge12 */
+#challenge12 .box1 {
+	position: relative;
+	width: 150px;
+	height: 300px;
 
+}
+#challenge12 .box2 {
+	position: absolute;
+	height: 160px;
+	width: 130px;
+	bottom: 0;
+	right: -65px;
+}
+#challenge12 .box3 {
+	position: absolute;
+	bottom: -50px;
+	right: 0;
+}
+
+/* Challenge 13 */
+#challenge13 .box1 {
+	position: relative;
+}
+#challenge13 .followers {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+/* Challenge 14 */
+#challenge14 .container {
+	display: flex;
+	justify-content: flex-end;
+}
+#challenge14 .box1 {
+	/* position: relative; */
+	width: 200px;
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+/* Challenge 15 */
+#challenge15 {
+	height: 450px;
+}
+#challenge15 .container {
+	display: flex;
+	justify-content: space-between;
+	height: 350px;
+	width: 420px;
+}
+#challenge15 .column {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+#challenge15 .column2 {
+	align-items: flex-end;
+}
 
